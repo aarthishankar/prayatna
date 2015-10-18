@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/event_bg"
+    tools:ignore="MissingPrefix"
+
+    xmlns:tools="http://schemas.android.com/tools">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    fontPath="fonts/hamburger.TTF"
+    android:background="@color/event_bg">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="Onsite Events"
+        android:textSize="35dp"
+        android:padding="10dp"
+        android:gravity="center"
+
+        fontPath="fonts/hamburger.TTF"/>
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:scrollbars="none" >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:orientation="horizontal" >
+
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="0.5"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/album"
+                        android:id="@+id/event01"
+                        android:background="#ffffff"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card">
+                        <TextView
+                            android:padding="7dp"
+                            android:layout_gravity="center"
+                            android:layout_width="fill_parent"
+                            android:id="@+id/tv01"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                                android:text="Debugging"
+                            fontPath="fonts/hamburger.TTF"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            />
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="0.5"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/rc"
+                        android:id="@+id/event02"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card">
+                        <TextView
+                            android:id="@+id/tv02"
+fontPath="fonts/hamburger.TTF"                            android:padding="7dp"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                            android:text="Reverse Coding"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                android:layout_weight="0.5"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:background="#ffffff"
+                        android:src="@drawable/wd"
+                        android:id="@+id/event03"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card">
+                        <TextView
+                            android:id="@+id/tv03"
+fontPath="fonts/hamburger.TTF"                            android:padding="7dp"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                            android:text="Web Design"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="0.5"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="5dp"
+
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:background="#ffffff"
+                        android:src="@drawable/cwj"
+                        android:id="@+id/event04"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card">
+                        <TextView
+fontPath="fonts/hamburger.TTF"
+                            android:id="@+id/tv04"
+                            android:padding="7dp"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                            android:text="Coffee With Java"
+                            android:textSize="18sp"
+                            android:textColor="#ffffff"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                android:layout_weight="0.5"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/bombport"
+                        android:background="#ffffff"
+                        android:id="@+id/event05"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card">
+                        <TextView
+fontPath="fonts/hamburger.TTF"                            android:padding="7dp"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                            android:text="Paper Presentation"
+                            android:id="@+id/tv05"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="0.5"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+
+                card_view:cardPreventCornerOverlap="false"
+                >
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="150dp"
+                    android:scaleType="fitXY"
+                    android:background="#ffffff"
+                    android:src="@drawable/hint"
+                    android:id="@+id/event06"
+                    />
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@color/event_card">
+                    <TextView
+fontPath="fonts/hamburger.TTF"                        android:padding="7dp"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:text="Pentathlon"
+                        android:id="@+id/tv06"
+                        android:textColor="#ffffff"
+                        android:textSize="18sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="0.5"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/ospc"
+                        android:id="@+id/event07"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card">
+                        <TextView
+                            android:id="@+id/tv07"
+                            fontPath="fonts/hamburger.TTF"
+                            android:padding="7dp"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                            android:text="Onsite Coding"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                android:layout_weight="0.5"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/select"
+                        android:background="#ffffff"
+                        android:id="@+id/event08"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card">
+                        <TextView
+                            fontPath="fonts/hamburger.TTF"                            android:padding="7dp"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                            android:text="Select *"
+                            android:id="@+id/tv08"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                android:layout_weight="0.5"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/hack"
+                        android:background="#ffffff"
+                        android:id="@+id/event09"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card">
+                        <TextView
+                            fontPath="fonts/hamburger.TTF"                            android:padding="7dp"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                            android:text="Hack Knight"
+                            android:id="@+id/tv09"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                android:layout_weight="0.5"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/it"
+                        android:background="#ffffff"
+                        android:id="@+id/event10"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card">
+                        <TextView
+                            fontPath="fonts/hamburger.TTF"                            android:padding="7dp"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                            android:text="Iterative Recurse"
+                            android:id="@+id/tv10"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                android:layout_weight="0.5"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/h"
+                        android:background="#ffffff"
+                        android:id="@+id/event11"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card">
+                        <TextView
+                            fontPath="fonts/hamburger.TTF"                            android:padding="7dp"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                            android:text="Hackathon"
+                            android:id="@+id/tv11"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                android:layout_weight="0.5"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/nt"
+                        android:background="#ffffff"
+                        android:id="@+id/event12"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card">
+                        <TextView
+                            fontPath="fonts/hamburger.TTF"                            android:padding="7dp"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                            android:text="Mega Event"
+                            android:id="@+id/tv12"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                android:layout_weight="0.5"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/euclid"
+                        android:background="#ffffff"
+                        android:id="@+id/event13"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card">
+                        <TextView
+                            fontPath="fonts/hamburger.TTF"                            android:padding="7dp"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                            android:text="Euclid's Desk"
+                            android:id="@+id/tv13"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                android:layout_weight="0.5"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/bp"
+                        android:background="#ffffff"
+                        android:id="@+id/event14"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card"
+                        android:orientation="horizontal">
+                        <TextView
+                            fontPath="fonts/hamburger.TTF"                            android:padding="7dp"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                            android:text="Business plan"
+                            android:id="@+id/tv14"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            />
+
+                        <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                            android:layout_width="150dp"
+                            android:layout_weight="0.5"
+                            card_view:cardBackgroundColor="#ffffff"
+                            android:layout_height="200dp"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginTop="7dp"
+                            android:padding="0dp"
+                            card_view:cardPreventCornerOverlap="false"
+                            >
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:orientation="vertical">
+                                <ImageView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="150dp"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/hunt"
+                                    android:background="#ffffff"
+                                    android:id="@+id/event15"
+                                    />
+                                <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="fill_parent"
+                                    android:background="@color/event_card">
+                                    <TextView
+                                        fontPath="fonts/hamburger.TTF"                            android:padding="7dp"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="fill_parent"
+                                        android:gravity="center"
+                                        android:text="Treasure Hunt"
+                                        android:id="@+id/tv15"
+                                        android:textColor="#ffffff"
+                                        android:textSize="18sp"
+                                        />
+
+                                </LinearLayout>
+                            </LinearLayout>
+                        </android.support.v7.widget.CardView>
+                        <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                            android:layout_width="150dp"
+                            android:layout_weight="0.5"
+                            card_view:cardBackgroundColor="#ffffff"
+                            android:layout_height="200dp"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginTop="7dp"
+                            android:padding="0dp"
+
+                            card_view:cardPreventCornerOverlap="false"
+                            >
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+
+                                android:layout_height="fill_parent"
+                                android:orientation="vertical">
+                                <ImageView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="150dp"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/cricket"
+                                    android:background="#ffffff"
+                                    android:id="@+id/event16"
+                                    />
+                                <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="fill_parent"
+                                    android:background="@color/event_card">
+                                    <TextView
+                                        fontPath="fonts/hamburger.TTF"                            android:padding="7dp"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="fill_parent"
+                                        android:gravity="center"
+                                        android:text="Cricket Quiz"
+                                        android:id="@+id/tv16"
+                                        android:textColor="#ffffff"
+                                        android:textSize="18sp"
+                                        />
+
+                                </LinearLayout>
+                            </LinearLayout>
+                        </android.support.v7.widget.CardView>
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="0.5"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/geek"
+                        android:id="@+id/event17"
+                        android:background="#ffffff"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card">
+                        <TextView
+                            android:padding="7dp"
+                            android:layout_gravity="center"
+                            android:layout_width="fill_parent"
+                            android:id="@+id/tv17"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                            android:text="Google Geeks"
+                            fontPath="fonts/hamburger.TTF"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            />
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="150dp"
+                card_view:cardBackgroundColor="#ffffff"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="0.5"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:padding="0dp"
+
+                card_view:cardPreventCornerOverlap="false"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/gaming"
+                        android:id="@+id/event18"
+                        android:background="#ffffff"
+                        />
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/event_card">
+                        <TextView
+                            android:padding="7dp"
+                            android:layout_gravity="center"
+                            android:layout_width="fill_parent"
+                            android:id="@+id/tv18"
+                            android:layout_height="fill_parent"
+                            android:gravity="center"
+                            android:text="Gaming"
+                            fontPath="fonts/hamburger.TTF"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            />
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+        </HorizontalScrollView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="Swipe left to view more events"
+        android:textSize="20dp"
+        android:gravity="center"/>
+
+    <TextView
+fontPath="fonts/hamburger.TTF"        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="Online Events"
+        android:gravity="center"
+        android:textSize="35dp"
+        android:padding="10dp"/>
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:scrollbars="none" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="150dp"
+            android:layout_weight="0.5"
+            card_view:cardBackgroundColor="#ffffff"
+            android:layout_height="200dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="7dp"
+            android:padding="0dp"
+            android:layout_margin="10dp"
+            card_view:cardPreventCornerOverlap="false"
+            >
+            <LinearLayout
+                android:layout_width="fill_parent"
+
+                android:layout_height="fill_parent"
+                android:orientation="vertical"
+                >
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="150dp"
+                    android:scaleType="fitXY"
+                    android:background="#ffffff"
+                    android:src="@drawable/debugging"
+                    android:id="@+id/event21"
+                    />
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@color/event_card">
+                    <TextView
+                        fontPath="fonts/hamburger.TTF"
+                        android:padding="7dp"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:text="Debugging"
+                        android:id="@+id/tv21"
+                        android:textColor="#ffffff"
+                        android:textSize="18sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="150dp"
+            card_view:cardBackgroundColor="#ffffff"
+            android:layout_height="200dp"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="0.5"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="7dp"
+            android:padding="0dp"
+            android:layout_margin="10dp"
+            card_view:cardPreventCornerOverlap="false"
+            >
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="150dp"
+                    android:scaleType="fitXY"
+                    android:background="#ffffff"
+                    android:src="@drawable/olpc"
+                    android:id="@+id/event22"
+                    />
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@color/event_card">
+                    <TextView
+                        fontPath="fonts/hamburger.TTF"
+                        android:padding="7dp"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:id="@+id/tv22"
+                        android:text="Online Programming"
+                        android:textColor="#ffffff"
+                        android:textSize="18sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="150dp"
+            android:layout_weight="0.5"
+            card_view:cardBackgroundColor="#ffffff"
+            android:layout_height="200dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="7dp"
+            android:padding="0dp"
+            android:layout_margin="10dp"
+            card_view:cardPreventCornerOverlap="false"
+            >
+            <LinearLayout
+                android:layout_width="fill_parent"
+
+                android:layout_height="fill_parent"
+                android:orientation="vertical"
+                >
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="150dp"
+                    android:scaleType="fitXY"
+                    android:background="#ffffff"
+                    android:src="@drawable/e"
+                    android:id="@+id/event23"
+                    />
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@color/event_card">
+                    <TextView
+                        fontPath="fonts/hamburger.TTF"                        android:padding="7dp"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:text="Eulers Quest"
+                        android:id="@+id/tv23"
+                        android:textColor="#ffffff"
+                        android:textSize="18sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="150dp"
+            android:layout_weight="0.5"
+            card_view:cardBackgroundColor="#ffffff"
+            android:layout_height="200dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="7dp"
+            android:padding="0dp"
+            android:layout_margin="10dp"
+            card_view:cardPreventCornerOverlap="false"
+            >
+            <LinearLayout
+                android:layout_width="fill_parent"
+
+                android:layout_height="fill_parent"
+                android:orientation="vertical"
+                >
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="150dp"
+                    android:scaleType="fitXY"
+                    android:background="#ffffff"
+                    android:src="@drawable/legends1"
+                    android:id="@+id/event24"
+                    />
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@color/event_card">
+                    <TextView
+                        fontPath="fonts/hamburger.TTF"                        android:padding="7dp"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:text="Legends of the Hidden Temple"
+                        android:id="@+id/tv24"
+                        android:textColor="#ffffff"
+                        android:textSize="18sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="150dp"
+            android:layout_weight="0.5"
+            card_view:cardBackgroundColor="#ffffff"
+            android:layout_height="200dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="7dp"
+            android:padding="0dp"
+            android:layout_margin="10dp"
+            card_view:cardPreventCornerOverlap="false"
+            >
+            <LinearLayout
+                android:layout_width="fill_parent"
+
+                android:layout_height="fill_parent"
+                android:orientation="vertical"
+                >
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="150dp"
+                    android:scaleType="fitXY"
+                    android:background="#ffffff"
+                    android:src="@drawable/bbb"
+                    android:id="@+id/event25"
+                    />
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@color/event_card">
+                    <TextView
+                        fontPath="fonts/hamburger.TTF"                        android:padding="7dp"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:text="Crack the codex"
+                        android:id="@+id/tv25"
+                        android:textColor="#ffffff"
+                        android:textSize="18sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+</HorizontalScrollView>
+</LinearLayout>
+    </ScrollView>

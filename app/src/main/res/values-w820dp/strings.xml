@@ -1,0 +1,1855 @@
+<resources>
+    <string name="app_name">Interrupt</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">drawer_open</string>
+<string name="drawer_close">drawer_close</string>
+
+
+
+    <string name="general_guidelines">
+1. All rounds of onsite events will be held at the symposium venue. A QR based validation is used to validate participants.\n\n
+2. App can be downloaded in campus as well.\n\n
+3. It is recommended you take the prelims on the app,although it can also be on paper.\n\n
+4. It is not necessary that every team member should be from the same college.\n\n
+5. If timings clash don’t worry, we always have many different sets of questions and you can attend the tests appropriately.\n\n
+6. Feel free to drop in suggestions or questions at interrupt2k15@gmail.com</string>
+
+
+
+    <string name="about_interrupt">Here we go INTERRUPTing a calm day again. Presenting the wildest and most viral sensation since cat videos and North
+West, Interrupt’15 is back-bigger and better than ever! Flying
+
+grenades, flipping ninjas and Chuck Norris all over town.
+
+Become the Sherlock Holmes through our treasure hunt, or be
+
+namma ooru “Dennis Ritchie” in coding. Idhu just trailor
+
+kannu,come see the real picture on the 3rd of September at
+
+SVCE.</string>
+    <string name="interrupt14">‘Boisterous’-One word that describes Interrupt’14 best. As always, the symposium
+
+had surpassed the expectations and set the bar really high making it even more
+
+challenging for the subsequent years to come. There were multiple online and offline
+
+events covering both the technical and non-technical side. The workshop on web
+
+development helped the students explore this wide arena. Numbers say a lot more
+
+than words. So, seeing how there were about 1500 students who participated from
+
+across the country, this event was a huge success.</string>
+    <string name="why_app">Why not app? According to recent statistics, about 68% of smartphone owners use apps more than
+
+ten times a day and we’re all one among them.  Driven by technology, we wanted to make it easier
+
+and more accessible with just a click of a button. Get notified on the latest event updates and
+
+register directly using the app. On registering, a QR code would be generated for the participants
+
+which would be scanned onsite for confirmation of participation. Pretty fancy, isn’t it?</string>
+
+
+    <string name="letsgo">Kindly register yourselves using the app. Upon registering, a QR code would be generated for the
+
+particular participant. Bring your phone along and get the QR code scanned onsite at SVCE on the
+
+day of the symposium to confirm your participation.</string>
+
+    <string-array name="myb">
+        <item>MYB V3.0</item>
+        <item>I am the person anybody turns to for suggestions(friends:Where  can we go? U: where we always do... friends: wonderful da!!).\n\n
+ I can tackle my way out of any situation logically(If you had a pizza with crust thickness \'A\' and radius \'Z\', what\'s the volume of the pizza?  .\n\n
+I do a lot of non- technical scenario-based thinking almost always seemingly paradoxical.(eg. Did the teacher kick me out because I was talking when he was talking or because I did not talk when he wanted me to.).\n\n
+Do you know the art of “SAMALIFICATION?”( for those of you who don’t know what it means,  don’t fret, it is something you do during viva to the external!)\n\n
+If you do at least one of the above, why are you wasting time reading?\n\n
+REGISTER NOW!. </item>
+        <item>
+1. Personality-based sentimental analysis \n
+(In app and on spot only, pen and paper also)\n
+(Q::Do you forgive an offender or will you take revenge?\n A::Never mind, both are right). (option c: pat-slap (whack!!):P)\n\n
+2. Guess the product!!(just make the CONNEXION)\n\n
+3. What’s business without some gamble? Gear up to be nimble; Don’t tremble, for you have full rights to ramble!!\n\n
+DumbC+ rapid fire+ puzzles</item>
+
+        <item>1. Download our app\n\n
+2.  Neenga vanda mattum podum!!!\n\n
+3. 2 members max. Individual contestants are also\t\t welcome.</item>
+        <item>I am in heaven but not in hell.\n
+
+I’m in the devil but not in god.\n
+
+I’m in the river but not in the sea.\n
+
+What am I?</item>
+
+    </string-array>
+
+    <string-array name="tabloid">
+        <item>DATA SURFER</item>
+        <item><p>Do you think you can find hidden words? Do you think your letters are better organised than anybody else’s? Do you believe in logical reasoning  and forming words using letters from patterns?
+
+If you are Wordsworth or even 10% his words’ worth,  this is the right event for
+
+you. Mind you, the only language you need to know is a little English and certain
+
+computer science terms( The latter only for extra points). So feel free and jump in
+
+to indulge, guess and talk gibberish in the best possible ways. </p></item>
+
+        <item>\t1.Application based data structures( NOT QUIZ, on spot only but in app{we are in
+
+a green movement,you see :P})\n\n
+2.Word Search (from data structures)\n\t\n
+
+3.”Sethan sivanandi” round (dare to find out).</item>
+        <item> \t 1. Download our app\n\t\n\t
+ 2. A Very Basic knowledge on basic data\n\t structures (arrays, stack, queues, list and
+
+\n\t trees) CODING NOT NECESSARY.\n\n\t
+
+</item>
+        <item>1. Arrays are best data structures\n\n
+
+A) for relatively permanent collections of data\n\n
+
+B) for the size of the structure and the data in the structure are constantly changing\n\n
+
+C) for both of above situation\n\n
+D) for none of above situation\n\n</item>
+
+    </string-array>
+
+    <string-array name="syntaxis">
+        <item>DATA DOSSIER</item>
+        <item>Search, think, dig and mine until you strike data, the “Diamond of the millennia”. \n\n
+“Can you read tables?”. You CAN’T say NO. ‘cause time tables have tested us through and through. All the time. Now its TIME for TABLES to be IN something . Rather it is time for everything to be in tables. They extract your resources, time and energy. Its time for REVENGE.  So get ready to comprehend and extract from tables. All set? Sweet revenge! There you are! Best offer. </item>
+        <item>1)Query round:\n\n
+Round one is querying on-site on databases already created.\n\n
+2)Story round:Analyze the data and form a story out of it. The best story bags the prize. \n\n </item>
+        <item>1) A knowledge of the basic MySQL queries(select, insert, update, delete, show ,create)[Don’t bother with triggers procedures and functions much]\n\n
+2)No need to query at all for round two.\n\n
+3) Team of 2 or 3 is allowed.</item>
+        <item>Prepare a bill showing item details and the price such that he eats the maximum number of
+
+items and still pays only between 1000 and 1500.</item>
+
+    </string-array>
+
+    <string-array name="trifact">
+        <item>CODE NINJA</item>
+        <item>Three steps to geek-dom::\n\n
+1) Annihilate\n\n
+2) Transpose\n\n
+3) Cipher\n\n </item>
+        <item>
+1. Debugging : “repair and redress” Hey there! Error Spotter!!\n\n
+2. Reverse Coding: “can u back pedal?” Backtrack, and find the source (code).\n\n
+3. Coding: : “Indite, indent ,innovate” Use logic to do the magic and you are now a geek.\n\n</item>
+        <item>1)Team event -3members per team\n\n
+2) All events are on spot(in app as well as pen-and-paper)\n\n
+3) Let Basic programming knowledge(java is not necessary c,c++ will do), pattern recognition and common sense guide you.\n\n</item>
+        <item>main()\n
+
+{\n
+
+clrscr();\n
+
+}\n
+
+clrscr();\n\n
+
+Answer:\n
+
+No output/error\n\n
+
+Explanation:\n
+
+The first clrscr() occurs inside a function. So it becomes a function call. In the second clrscr();
+
+is a function declaration (because it is not inside any function).</item>
+
+    </string-array>
+
+    <string-array name="bombsquad">
+        <item>PAPIER\nREMISE</item>
+        <item>Are you happier knowing the working of Napier bones? Do you have a knack at discovery like Indiana Jones? Then bring it out coherently in the form of a structured writing aka “paper”. Though all your thoughts are welcome, there are a select few topics in which your thought outflow is gladly welcome. </item>
+        <item>Will be updated soon.check out our website for quick updates\n\n www.interrupt15.in</item>
+        <item>1) Abstract must be sent by\n\n
+2) Maximum 3 members per team.\n\n
+3) Please adhere to the topic chosen strictly.\n\n
+4) Choose topics only from the list given below:\n\n
+</item>
+        <item>1.Data Mining\n\n
+
+2.Image Processing\n\n
+
+3.Artificial Intelligence\n\n
+
+4.Networks\n\n
+
+5.Datalake\n\n
+
+6.Multimedia\n\n
+
+7.Distributed Computing\n\n
+
+8.Embedded Systems.</item>
+
+    </string-array>
+    <string-array name="dumbc">
+        <item>DUMBC</item>
+        <item>Bring out the geek in you and introduce them to the great actor that you are! This is your chance to
+
+show how good an actor and how smart a person you are. We’ve got some exciting rounds and fun
+
+twists to the usual DumbC game. Register yourself right now and see yourself become the next Tom
+
+Cruise or Jennifer Aniston. </item>
+
+        <item><b>1)TECH-TABOO</b>\n
+
+<p>\t\tTaboo is a verbal game played with teams of three players or more with a set of taboo
+
+words.</p>\n
+       <b> 2)AUDIO ROUND/MOVIE ROUND\n</b>
+
+<p>\t\tA player from each team would have to pick a chit from the pile which has a mix of both
+
+audio as well as movie round. Each team therefore, would have to play either of the two
+
+depending on the chit.</p></item>
+
+        <item><p> Only 3 participants allowed per team;\n</p>
+
+<p> Each member of the team has to come at least once for gesticulation;\n</p>
+
+<p>POINTS: 10 points for guessing,5 points for pass question;\n</p>
+
+<p> At the end of each round points are tallied for each team, and top 5 teams make
+
+it to the finals after which the winner is declared by the team with the most
+
+points.</p></item>
+        <item>Will be updated soon</item>
+
+    </string-array>
+
+
+    <string-array name="hintforage">
+        <item>HINT FORAGE</item>
+        <item>Puzzles and hints!!  Sate your hunger for quests and teasers. Get lost in the interaction of fuzziness and logic. Do you think you can handle the tempest?\n\n
+Emerge victorious!!  </item>
+        <item>1. Puzzles, riddles and a lot of other stuff. ( other stuff::The things done when boredom threatens your life).\n\n
+2.  Fire at will.\n\n
+3. Can’t talk in public? Then get ready to ACT on cue to identify a clue!!!.\n\n
+</item>
+        <item>1. Download our app\n\n
+2. Round 1 in app as well as pen and paper\n\n
+3. 2 or 3 members per team.</item>
+        <item>In the attached picture, you can find different dice results. The empty throw means that
+
+the dice fell off the board. If we tell you that each pair of results have a relation to the
+
+overall system, can you find out the missing last tile?</item>
+
+    </string-array>
+
+
+
+    <string-array name="onlinecoding">
+        <item>COC</item>
+        <item>Class FindWhatsOnYourMind{\n
+
+Enum StatesEveryday{ \n
+
+BORED, DOODLING, TEXTING, SLEEPING\n
+
+};\n
+
+Enum OnSept3rd{\n
+
+EXCITED, RUNNING, HAPPY, ENJOYING, ACTUALLY_LEARNING\n
+
+};\n
+
+String day,date,Venue;\n
+
+Public static void main( String [] args)\n
+
+{\n
+
+getDateDayLocation();/* write ui or something to get the date and venue*/\n
+
+try{\n
+
+if(Date != (depending  on how we get input)Sept3rd)\n
+
+{\n
+
+/*choosing a random value from StatesEveryday*/\n
+
+StatesEveryday x= \n
+
+StatesEveryday.values()[newRandom().nextInt(StatesEveryday.values().length)];\n
+
+System.out.println(“I am”+x);\n
+
+}\n
+
+else\n
+
+{\n
+
+throw new InterruptedException();\n
+
+} }\n
+
+catch(InterruptedException e){\n
+
+ assert (Venu.equalsIgnoreCase(“svce”)) (“Must go to SVCE soon”);\n
+
+System .out.println(“Hah Yay, I am caught in the exceptional INTERRUPT”+ “ \\n I
+
+am”);\n
+
+for(OnSept3rd o: OnSept3rd.values())\n
+
+{\n
+
+System.out.print(o+ “\t”);\n
+
+}}} </item>
+        <item>1) Write only 10-12 lines and make magic\n\n
+
+2) This takes perseverance and endurance. Can you extrapolate your
+
+creational and application skills</item>
+        <item>1) Not a team Event\n\n
+
+2) Online coding (Work from home)!!!</item>
+        <item>Will be updated soon</item>
+
+    </string-array>
+    <string-array name="treasurehunt">
+
+        <item>QUIZZLER</item>
+        <item>Forget the subject, take a break and use CS for Common Sense and not Computer
+
+Science for a while.
+
+Connect images, view the unseen, organize your thoughts and indulge in the
+
+process of finding the needful. </item>
+        <item>1) Exciting and intriguing teasers, incomplete one liners ,etc.,\n\n
+
+2) Test your IQ. Puzzles await you.</item>
+        <item>1) No programming knowledge is needed
+\n\n
+2) Basic skills for aptitude and reasoning.</item>
+        <item>Will be updated soon</item>
+    </string-array>
+
+    <string-array name="college_names">
+        <item>UNIVERSITY DEPARTMENTS OF ANNA UNIVERSITY, CHENNAI – CEG CAMPUS</item>
+
+        <item>UNIVERSITY DEPARTMENTS OF ANNA UNIVERSITY, CHENNAI – ACT CAMPUS</item>
+
+        <item>UNIVERSITY DEPARTMENTS OF ANNA UNIVERSITY, CHENNAI – SAP CAMPUS</item>
+
+        <item>MEASI ACADEMY OF ARCHITECTURE</item>
+
+        <item>MEENAKSHI SUNDARARAJAN ENGINEERING COLLEGE</item>
+
+        <item>CENTRAL INSTITUTE OF PLASTICS ENGINEERING AND TECHNOLOGY</item>
+
+        <item>JAWAHAR ENGINEERING COLLEGE</item>
+
+        <item>LOYOLA – ICAM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>MEENAKSHI COLLEGE OF ENGINEERING</item>
+
+        <item>GOVERNMENT COLLEGE OF TECHNOLOGY, COIMBATORE (AUTONOMOUS)</item>
+
+        <item>P.S.G. COLLEGE OF TECHNOLOGY (AUTONOMOUS)</item>
+
+        <item>COIMBATORE INSTITUTE OF TECHNOLOGY (AUTONOMOUS)</item>
+
+        <item>RATHINAM TECHNICAL CAMPUS</item>
+
+        <item>SRI RANGANATHAR INSTITUTE OF ENGINEERING and TECHNOLOGY</item>
+
+        <item>N.R. SCHOOL OF ARCHITECTURE</item>
+
+        <item>POLLACHI INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>V.S.B. COLLEGE OF ENGINEERING TECHNICAL CAMPUS</item>
+
+        <item>NIGHTINGALE INSTITUTE OF TECHNOLOGY</item>
+
+        <item>SUGUNA COLLEGE OF ENGINEERING</item>
+
+        <item>SASI CREATIVE SCHOOL OF ARCHITECTURE</item>
+
+        <item>A.S.L. PAULS COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>CHRIST THE KING ENGINEERING COLLEGE</item>
+
+        <item>S V S COLLEGE OF ENGINEERING</item>
+
+        <item>SREE SAKTHI ENGINEERING COLLEGE</item>
+
+        <item>COIMBATORE INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>DR. MAHALINGAM COLLEGE OF ENGINEERING and TECHNOLOGY (AUTONOMOUS)</item>
+
+        <item>HINDUSTHAN COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>KARPAGAM COLLEGE OF ENGINEERING (AUTONOMOUS)</item>
+
+        <item>KUMARAGURU COLLEGE OF TECHNOLOGY (AUTONOMOUS)</item>
+
+        <item>MAHARAJA ENGINEERING COLLEGE</item>
+
+        <item>PARK COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SRI KRISHNA COLLEGE OF ENGINEERING and TECHNOLOGY (AUTONOMOUS)</item>
+
+        <item>SRI RAMAKRISHNA ENGINEERING COLLEGE (AUTONOMOUS)</item>
+
+        <item>TAMILNADU COLLEGE OF ENGINEERING</item>
+
+        <item>SRI KRISHNA COLLEGE OF TECHNOLOGY (AUTONOMOUS)</item>
+
+        <item>MAHARAJA PRITHVI ENGINEERING COLLEGE</item>
+
+        <item>SRI RAMAKRISHNA INSTITUTE OF TECHNOLOGY</item>
+
+        <item>SNS COLLEGE OF TECHNOLOGY (AUTONOMOUS)</item>
+
+        <item>SRI SHAKTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>TAMILNADU SCHOOL OF ARCHITECTURE</item>
+
+        <item>NEHRU INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>MAHARAJA INSTITUTE OF TECHNOLOGY</item>
+
+        <item>R V S COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>INFO INSTITUTE OF ENGINEERING</item>
+
+        <item>S N S COLLEGE OF ENGINEERING</item>
+
+        <item>KARPAGAM INSTITUTE OF TECHNOLOGY</item>
+
+        <item>DR.N G P INSTITUTE OF TECHNOLOGY</item>
+
+        <item>RANGANATHAN ENGINEERING COLLEGE</item>
+
+        <item>SASURIE ACADEMY OF ENGINEERING</item>
+
+        <item>SRI ESHWAR COLLEGE OF ENGINEERING</item>
+
+        <item>HINDUSTHAN INSTITUTE OF TECHNOLOGY</item>
+
+        <item>P A COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING</item>
+
+        <item>ADITHYA INSTITUTE OF TECHNOLOGY</item>
+
+        <item>KATHIR COLLEGE OF ENGINEERING</item>
+
+        <item>KTVR KNOWLEDGE PARK FOR ENGINEERING AND TECHNOLOGY</item>
+
+        <item>EASA COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>KALAIGNAR KARUNANIDHI INSTITUTE OF TECHNOLOGY</item>
+
+        <item>KGISL INSTITUTE OF TECHNOLOGY</item>
+
+        <item>PPG INSTITUTE OF TECHNOLOGY</item>
+
+        <item>NEHRU INSTITUTE OF TECHNOLOGY</item>
+
+        <item>INDUS COLLEGE OF ENGINEERING</item>
+
+        <item>TEJAA SHAKTHI INSTITUTE OF TECHNOLOGY FOR WOMEN</item>
+
+        <item>UNITED INSTITUTE OF TECHNOLOGY</item>
+
+        <item>JANSONS INSTITUTE OF TECHNOLOGY</item>
+
+        <item>AKSHAYA COLLEGE OF ENGINEERING and TECHNOLOGY</item>
+
+        <item>K P R INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SRIGURU INSTITUTE OF TECHNOLOGY</item>
+
+        <item>PARK COLLEGE OF TECHNOLOGY</item>
+
+        <item>J C T COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>KALAIVANI COLLEGE OF TECHNOLOGY</item>
+
+        <item>C M S COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>PRAHAR SCHOOL OF ARCHITECTURE</item>
+
+        <item>RVS TECHNICAL CAMPUS – COIMBATORE</item>
+
+        <item>R.V.S. SCHOOL OF ARCHITECTURE</item>
+
+        <item>RANGANATHAN ARCHITECTURE COLLEGE</item>
+
+        <item>S V S SCHOOL OF ARCHITECTURE</item>
+
+        <item>UNIVERSITY COLLEGE OF ENGINEERING, PANRUTI</item>
+
+        <item>KRISHNASAMY COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>C.K. COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>DR.NAVALAR NEDUNCHEZHIYAN COLLEGE OF ENGINEERING</item>
+
+        <item>M R K INSTITUTE OF TECHNOLOGY</item>
+
+        <item>ST.ANNE’S COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>DHARMAPURI</item>
+
+        <item>JAYAM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SAPTHAGIRI COLLEGE OF ENGINEERING</item>
+
+        <item>JAYALAKSHMI INSTITUTE OF TECHNOLOGY</item>
+
+        <item>VARUVAN VADIVELAN INSTITUTE OF TECHNOLOGY</item>
+
+        <item>SHREENIVASA ENGINEERING COLLEGE</item>
+
+        <item>UNIVERSITY COLLEGE OF ENGINEERING, DINDIGUL</item>
+
+        <item>SSM INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>CHRISTIAN COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SRI SUBRAMANYA COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>N P R COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>VEERAMMAL ENGINEERING COLLEGE</item>
+
+        <item>R.V.S. SCHOOL OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>R.V.S. SCHOOL OF ARCHITECTURE</item>
+
+        <item>KODAIKANAL INSTITUTE OF TECHNOLOGY</item>
+
+        <item>PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>RATNAVEL SUBRAMANIAM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SBM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>AISHWARYA COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>VIDHYA MANDHIR INSTITUTE OF TECHNOLOGY</item>
+
+        <item>J.K.K MUNIRAJAH SCHOOL OF ARCHITECTURE</item>
+
+        <item>AL-AMEEN ENGINEERING COLLEGE</item>
+
+        <item>BANNARI AMMAN INSTITUTE OF TECHNOLOGY (AUTONOMOUS)</item>
+
+        <item>ERODE SENGUNTHAR ENGINEERING COLLEGE</item>
+
+        <item>INSTITUTE OF ROAD AND TRANSPORT TECHNOLOGY</item>
+
+        <item>KONGU ENGINEERING COLLEGE (AUTONOMOUS)</item>
+
+        <item>M.P. NACHIMUTHU M. JAGANATHAN ENGINEERING COLLEGE</item>
+
+        <item>NANDHA ENGINEERING COLLEGE (AUTONOMOUS)</item>
+
+        <item>VELALAR COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>MAHARAJA ENGINEERING COLLEGE FOR WOMEN</item>
+
+        <item>SHREE VENKATESHWARA HI-TECH ENGINEERING COLLEGE</item>
+
+        <item>SURYA ENGINEERING COLLEGE</item>
+
+        <item>NANDHA COLLEGE OF TECHNOLOGY</item>
+
+        <item>J K K MUNIRAJAH COLLEGE OF TECHNOLOGY</item>
+
+        <item>UNIVERSITY DEPARTMENTS OF ANNA UNIVERSITY, CHENNAI – MIT CAMPUS</item>
+
+        <item>UNIVERSITY COLLEGE OF ENGINEERING, KANCHIPURAM</item>
+
+        <item>PALLAVA RAJA COLLEGE OF ENGINEERING</item>
+
+        <item>MARG INSTITUTE OF DESIGN and ARCHITECTURE SWARNABHOOMI(MIDAS)</item>
+
+        <item>RAJALAKSHMI SCHOOL OF ARCHITECTURE</item>
+
+        <item>ANNAI VEILANKANNI’S COLLEGE OF ENGINEERING</item>
+
+        <item>DA VINCI SCHOOL OF DESIGN AND ARCHITECTURE</item>
+
+        <item>JEPPIAAR INSTITUTE OF TECHNOLOGY</item>
+
+        <item>ANAND SCHOOL OF ARCHITECTURE</item>
+
+        <item>MISIRIMAL NAVAJEE MUNOTH JAIN SCHOOL OF ARCHITECTURE</item>
+
+        <item>ST.JOSEPH’S INSTITUTE OF TECHNOLOGY</item>
+
+        <item>ARIGNAR ANNA INSTITUTE OF SCIENCE AND TECHNOLOGY</item>
+
+        <item>D M I COLLEGE OF ENGINEERING</item>
+
+        <item>KALSAR COLLEGE OF ENGINEERING</item>
+
+        <item>LORD VENKATESHWARAA ENGINEERING COLLEGE</item>
+
+        <item>MAAMALLAN INSTITUTE OF TECHNOLOGY</item>
+
+        <item>KINGS ENGINEERING COLLEGE</item>
+
+        <item>KANCHI PALLAVAN ENGINEERING COLLEGE</item>
+
+        <item>PALLAVAN COLLEGE OF ENGINEERING</item>
+
+        <item>RAJALAKSHMI ENGINEERING COLLEGE</item>
+
+        <item>RAJIV GANDHI COLLEGE OF ENGINEERING</item>
+
+        <item>SAKTHI MARIAMMAN ENGINEERING COLLEGE</item>
+
+        <item>SAVEETHA ENGINEERING COLLEGE</item>
+
+        <item>SRI MUTHUKUMARAN INSTITUTE OF TECHNOLOGY</item>
+
+        <item>SRI VENKATESWARA COLLEGE OF ENGINEERING</item>
+
+        <item>P.B. COLLEGE OF ENGINEERING</item>
+
+        <item>LOYOLA INSTITUTE OF TECHNOLOGY</item>
+
+        <item>P.T. LEE CHENGALVARAYA NAICKER COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>APOLLO ENGINEERING COLLEGE</item>
+
+        <item>ARM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>ADHI COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>INDIRA GANDHI COLLEGE OF ENGINEERING AND TECHNOLOGY FOR WOMEN</item>
+
+        <item>J E I MATHAAJEE COLLEGE OF ENGINEERING</item>
+
+        <item>MADHA INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>MOHAMMED SATHAK A.J.COLLEGE OF ENGINEERING</item>
+
+        <item>ANAND INSTITUTE OF HIGHER TECHNOLOGY</item>
+
+        <item>JEPPIAAR ENGINEERING COLLEGE</item>
+
+        <item>JERUSALEM COLLEGE OF ENGINEERING</item>
+
+        <item>MISRIMAL NAVAJEE MUNOTH JAIN ENGINEERING COLLEGE</item>
+
+        <item>K.C.G. COLLEGE OF TECHNOLOGY</item>
+
+        <item>SHREE MOTILAL KANHAIYALAL FOMRA INSTITUTE OF TECHNOLOGY</item>
+
+        <item>SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING</item>
+
+        <item>AGNI COLLEGE OF TECHNOLOGY</item>
+
+        <item>ST.JOSEPH’S COLLEGE OF ENGINEERING</item>
+
+        <item>T.J. INSTITUTE OF TECHNOLOGY</item>
+
+        <item>THANGAVELU ENGINEERING COLLEGE</item>
+
+        <item>S.R.R. ENGINEERING COLLEGE</item>
+
+        <item>DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>A.C.T. COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SRI SAI RAM INSTITUTE OF TECHNOLOGY</item>
+
+        <item>ST. JOSEPH COLLEGE OF ENGINEERING</item>
+
+        <item>AKSHEYAA COLLEGE OF ENGINEERING</item>
+
+        <item>VI INSTITUTE OF TECHNOLOGY</item>
+
+        <item>BALAMANI ARUNACHALAM EDUCATIONAL and CHARITABLE TRUST’S GROUP OF INST.</item>
+
+        <item>SRI KRISHNA INSTITUTE OF TECHNOLOGY</item>
+
+        <item>CHENNAI INSTITUTE OF TECHNOLOGY</item>
+
+        <item>MOHAMED SATHAK A.J. ACADEMY OF ARCHITECTURE</item>
+
+        <item>ADHIPARASAKTHI ENGINEERING COLLEGE</item>
+
+        <item>DHANALAKSHMI COLLEGE OF ENGINEERING</item>
+
+        <item>G.K.M. COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>MADHA ENGINEERING COLLEGE</item>
+
+        <item>SRI VENKATESWARAA COLLEGE OF TECHNOLOGY</item>
+
+        <item>PRINCE SHRI VENKATESHWARA PADMAVATHY ENGINEERING COLLEGE</item>
+
+        <item>SHRI ANDAL ALAGAR COLLEGE OF ENGINEERING</item>
+
+        <item>SRI LAKSHMI AMMAL ENGINEERING COLLEGE</item>
+
+        <item>SRI SAIRAM ENGINEERING COLLEGE</item>
+
+        <item>TAGORE ENGINEERING COLLEGE</item>
+
+        <item>VALLIAMMAI ENGINEERING COLLEGE</item>
+
+        <item>ASAN MEMORIAL COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>DHAANISH AHMED COLLEGE OF ENGINEERING</item>
+
+        <item>SRI RAMANUJAR ENGINEERING COLLEGE</item>
+
+        <item>SRI KRISHNA ENGINEERING COLLEGE</item>
+
+        <item>GOPAL RAMALINGAM MEMORIAL ENGINEERING COLLEGE</item>
+
+        <item>NEW PRINCE SHRI BHAVANI COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>BALAJI INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>RRASE COLLEGE OF ENGINEERING</item>
+
+        <item>PRINCE DR.K.VASUDEVAN COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>LORD AYYAPPA INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>CHENDU COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>PERI INSTITUTE OF TECHNOLOGY</item>
+
+        <item>APOLLO PRIYADARSHANAM INSTITUTE OF TECHNOLOGY</item>
+
+        <item>THIRUMALAI ENGINEERING COLLEGE</item>
+
+        <item>UNIVERSITY COLLEGE OF ENGINEERING, NAGERCOIL</item>
+
+        <item>ROHINI COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SIGMA COLLEGE OF ARCHITECTURE</item>
+
+        <item>STELLA MARY’S COLLEGE OF ENGINEERING</item>
+
+        <item>MARIA COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>MAR EPHRAEM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>M.E.T ENGINEERING COLLEGE</item>
+
+        <item>IMMANUEL ARASAR J J COLLEGE OF ENGINEERING</item>
+
+        <item>SIVAJI COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SATYAM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>ARUNACHALA COLLEGE OF ENGINEERING FOR WOMEN</item>
+
+        <item>VINS CHRISTIAN WOMEN’S COLLEGE OF ENGINEERING</item>
+
+        <item>DMI ENGINEERING COLLEGE</item>
+
+        <item>RAJAS INTERNATIONAL INSTITUTE OF TECHNOLOGY FOR WOMEN</item>
+
+        <item>TAMIZHAN COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>C.S.I. INSTITUTE OF TECHNOLOGY</item>
+
+        <item>JAYAMATHA ENGINEERING COLLEGE</item>
+
+        <item>ST.XAVIER’S CATHOLIC COLLEGE OF ENGINEERING</item>
+
+        <item>SUN COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>NARAYANAGURU COLLEGE OF ENGINEERING</item>
+
+        <item>UDAYA SCHOOL OF ENGINEERING</item>
+
+        <item>PONJESLY COLLEGE OF ENGINEERING</item>
+
+        <item>VINS CHRISTIAN COLLEGE OF ENGINEERING</item>
+
+        <item>LORD JEGANNATH COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>MARTHANDAM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>K N S K COLLEGE OF ENGINEERING</item>
+
+        <item>JAMES COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>BETHLAHEM INSTITUTE OF ENGINEERING</item>
+
+        <item>LOYOLA INSTITUTE OF TECHNOLOGY AND SCIENCE</item>
+
+        <item>ANNAI VAILANKANNI COLLEGE OF ENGINEERING</item>
+
+        <item>N.S.N. COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>CHERAN COLLEGE OF ENGINEERING</item>
+
+        <item>ARULMURUGA TECHNICAL CAMPUS</item>
+
+        <item>CHERAN SCHOOL OF ARCHITECTURE</item>
+
+        <item>M.KUMARASAMY COLLEGE OF ENGINEERING (AUTONOMOUS)</item>
+
+        <item>V.S.B. ENGINEERING COLLEGE</item>
+
+        <item>CHETTINAD COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>KARUR COLLEGE OF ENGINEERING</item>
+
+        <item>V K S COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SRI VENKATESHWARA INSTITUTE OF ENGINEERING</item>
+
+        <item>HOSUR INSTITUTE OF TECHNOLOGY AND SCIENCE</item>
+
+        <item>ADHIYAMAAN COLLEGE OF ENGINEERING (AUTONOMOUS)</item>
+
+        <item>GOVERNMENT COLLEGE OF ENGINEERING – BARGUR</item>
+
+        <item>ER.PERUMAL MANIMEKALAI COLLEGE OF ENGINEERING</item>
+
+        <item>P.S.V.COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>ARCHANA INSTITUTE OF TECHNOLOGY</item>
+
+        <item>THIAGARAJAR COLLEGE OF ENGINEERING (AUTONOMOUS)</item>
+
+        <item>C.R. ENGINEERING COLLEGE</item>
+
+        <item>VAIGAI COLLEGE OF ENGINEERING</item>
+
+        <item>P.T.R.COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>RAJA COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SACS M.A.V.M.M ENGINEERING COLLEGE</item>
+
+        <item>VICKRAM COLLEGE OF ENGINEERING</item>
+
+        <item>FATIMA MICHAEL COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>ULTRA COLLEGE OF ENGINEERING AND TECHNOLOGY FOR WOMEN</item>
+
+        <item>VELAMMAL COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>LATHA MATHAVAN ENGINEERING COLLEGE</item>
+
+        <item>UNIVERSITY COLLEGE OF ENGINEERING, THIRUKKUVALAI</item>
+
+        <item>PRIME COLLEGE OF ARCHITECTURE AND PLANNING</item>
+
+        <item>SIR ISSAC NEWTON COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>A.V.C COLLEGE OF ENGINEERING</item>
+
+        <item>E.G.S.PILLAY ENGINEERING COLLEGE</item>
+
+        <item>SEMBODAI RUKMANI VARATHARAJAN ENGINEERING COLLEGE</item>
+
+        <item>MUTHAYAMMAL TECHNICAL CAMPUS</item>
+
+        <item>K S R INSTITUTE FOR ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SKANDHA SCHOOL OF ARCHITECTURE</item>
+
+        <item>ANNAI MATHAMMAL SHEELA ENGINEERING COLLEGE</item>
+
+        <item>K.S.RANGASAMY COLLEGE OF TECHNOLOGY (AUTONOMOUS)</item>
+
+        <item>MAHENDRA ENGINEERING COLLEGE</item>
+
+        <item>MUTHAYAMMAL ENGINEERING COLLEGE</item>
+
+        <item>PAAVAI ENGINEERING COLLEGE</item>
+
+        <item>P G P COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>K.S.R. COLLEGE OF ENGINEERING</item>
+
+        <item>S.S.M. COLLEGE OF ENGINEERING</item>
+
+        <item>SENGUNTHAR ENGINEERING COLLEGE</item>
+
+        <item>PAAVAAI GROUP OF INSTITUTIONS</item>
+
+        <item>VIVEKANANDHA COLLEGE OF ENGINEERING FOR WOMEN</item>
+
+        <item>GNANAMANI COLLEGE OF TECHNOLOGY</item>
+
+        <item>VIVEKANANDHA INSTITUTE OF ENGINEERING and TECHNOLOGY FOR WOMEN</item>
+
+        <item>SELVAM COLLEGE OF TECHNOLOGY</item>
+
+        <item>PAAVAI COLLEGE OF ENGINEERING</item>
+
+        <item>SENGUNTHAR COLLEGE OF ENGINEERING</item>
+
+        <item>KING COLLEGE OF TECHNOLOGY</item>
+
+        <item>MAHENDRA INSTITUTE OF TECHNOLOGY</item>
+
+        <item>VIDYAA VIKAS COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>EXCEL ENGINEERING COLLEGE</item>
+
+        <item>CMS COLLEGE OF ENGINEERING</item>
+
+        <item>EXCEL COLLEGE OF TECHNOLOGY</item>
+
+        <item>MAHENDRA ENGINEERING COLLEGE FOR WOMEN</item>
+
+        <item>J.K.K. NATTRAJA COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>PAVAI COLLEGE OF TECHNOLOGY</item>
+
+        <item>GNANAMANI COLLEGE OF ENGINEERING</item>
+
+        <item>VIVEKANANDHA COLLEGE OF TECHNOLOGY FOR WOMEN</item>
+
+        <item>DR.NAGARATHINAM’S COLLEGE OF ENGINEERING</item>
+
+        <item>EXCEL COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>MAHENDRA INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>EXCEL COLLEGE OF ARCHITECTURE AND PLANNING</item>
+
+        <item>SRG ENGINEERING COLLEGE</item>
+
+        <item>SRI RAMAKRISHNA COLLEGE OF ENGINEERING</item>
+
+        <item>DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING</item>
+
+        <item>DHANALAKSHMI SRINIVASAN INSTITUTE OF RESEARCH AND TECHNOLOGY</item>
+
+        <item>DHANALAKSHMI SRINIVASAN ENGINEERING COLLEGE</item>
+
+        <item>ROEVER ENGINEERING COLLEGE</item>
+
+        <item>SRINIVASAN ENGINEERING COLLEGE</item>
+
+        <item>ROEVER COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>MOOKAMBIGAI COLLEGE OF ENGINEERING</item>
+
+        <item>MOTHER TERASA COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SRI BHARATHI ENGINEERING COLLEGE FOR WOMEN</item>
+
+        <item>MAHATH AMMA INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>KINGS COLLEGE OF ENGINEERING</item>
+
+        <item>MOUNT ZION COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SHANMUGANATHAN ENGINEERING COLLEGE</item>
+
+        <item>SUDHARSAN ENGINEERING COLLEGE</item>
+
+        <item>MNSK COLLEGE OF ENGINEERING</item>
+
+        <item>M.A.R. COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>CHENDHURAN COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>UNIVERSITY COLLEGE OF ENGINEERING, RAMANATHAPURAM</item>
+
+        <item>MOHAMED SATHAK ENGINEERING COLLEGE</item>
+
+        <item>SYED AMMAL ENGINEERING COLLEGE</item>
+
+        <item>GANAPATHY CHETTIAR COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SRI SHANMUGHA COLLEGE OF ENGG. and TECH.</item>
+
+        <item>GANESH COLLEGE OF ENGINEERING</item>
+
+        <item>DHIRAJLAL GANDHI COLLEGE OF TECHNOLOGY</item>
+
+        <item>SHREE SATHYAM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>GOVERNMENT COLLEGE OF ENGINEERING – SALEM (AUTONOMOUS)</item>
+
+        <item>SONA COLLEGE OF TECHNOLOGY (AUTONOMOUS)</item>
+
+        <item>MAHENDRA COLLEGE OF ENGINEERING</item>
+
+        <item>THE KAVERY ENGINEERING COLLEGE</item>
+
+        <item>A V S ENGINEERING COLLEGE</item>
+
+        <item>NARASU’S SARATHY INSTITUTE OF TECHNOLOGY</item>
+
+        <item>BHARATHIYAR INSTITUTE OF ENGINEERING FOR WOMEN</item>
+
+        <item>GREENTECH COLLEGE OF ENGINEERING FOR WOMEN</item>
+
+        <item>VIVEKANANDHA ENGINEERING COLLEGE FOR WOMEN</item>
+
+        <item>TAGORE INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>ANNAPOORANA ENGINEERING COLLEGE</item>
+
+        <item>KNOWLEDGE INSTITUTE OF TECHNOLOGY</item>
+
+        <item>V S A EDUCATIONAL AND CHARITABLE TRUST’S GROUP OF INSTITUTIONS</item>
+
+        <item>SALEM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>S R S COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>THE KAVERY COLLEGE OF ENGINEERING</item>
+
+        <item>CENTRAL ELECTROCHEMICAL RESEARCH INSTITUTE (CSIR) KARAIKUDI</item>
+
+        <item>SRI RAAJA RAAJAN COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>KIT and KIM TECHNICAL CAMPUS</item>
+
+        <item>MADURAI INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>A.C.COLLEGE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS)</item>
+
+        <item>K.L.N.COLLEGE OF INFORMATION TECHNOLOGY</item>
+
+        <item>K.L.N.COLLEGE OF ENGINEERING</item>
+
+        <item>PANDIAN SARASWATHI YADAV ENGINEERING COLLEGE</item>
+
+        <item>PANNAI COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>ST.MICHAEL COLLEGE OF ENGINEERING and TECHNOLOGY</item>
+
+        <item>UNIVERSITY COLLEGE OF ENGINEERING, PATTUKKOTTAI</item>
+
+        <item>SMR EAST COAST COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>K.S.K COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>STAR LION COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>ARASU ENGINEERING COLLEGE</item>
+
+        <item>P.R.ENGINEERING COLLEGE</item>
+
+        <item>PONNAIYAH RAMAJAYAM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>ST.JOSEPH’S COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>PARISUTHAM INSTITUTE OF TECHNOLOGY AND SCIENCE</item>
+
+        <item>VANDAYAR ENGINEERING COLLEGE</item>
+
+        <item>ANNAI COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>AS-SALAM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>CSI COLLEGE OF ENGINEERING</item>
+
+        <item>McGAN’S OOTY SCHOOL OF ARCHITECTURE</item>
+
+        <item>GOVERNMENT COLLEGE OF ENGINEERING, BODIYANAYAKKANUR</item>
+
+        <item>VPV COLLEGE OF ENGINEERING</item>
+
+        <item>NADAR SARASWATHI COLLEGE OF ENGINEERING and TECHNOLOGY</item>
+
+        <item>BHARATH NIKETAN ENGINEERING COLLEGE</item>
+
+        <item>THENI KAMMAVAR SANGAM COLLEGE OF TECHNOLOGY</item>
+
+        <item>THAMIRABHARANI ENGINEERING COLLEGE</item>
+
+        <item>UNIVERSAL COLLEGE OF ENGINEERING and TECHNOLOGY</item>
+
+        <item>SCAD ENGINEERING COLLEGE</item>
+
+        <item>A.R. COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>ARUL COLLEGE OF TECHNOLOGY</item>
+
+        <item>PSN INSTITUTE OF TECHNOLOGY AND SCIENCE</item>
+
+        <item>CAPE INSTITUTE OF TECHNOLOGY</item>
+
+        <item>FRANCIS XAVIER ENGINEERING COLLEGE</item>
+
+        <item>JOE SURESH ENGINEERING COLLEGE</item>
+
+        <item>NATIONAL COLLEGE OF ENGINEERING</item>
+
+        <item>PSN COLLEGE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS)</item>
+
+        <item>PET ENGINEERING COLLEGE</item>
+
+        <item>S.VEERASAMY CHETTIAR COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SARDAR RAJA COLLEGE OF ENGINEERING</item>
+
+        <item>SCAD COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>THE RAJAAS ENGINEERING COLLEGE</item>
+
+        <item>GOVERNMENT COLLEGE OF ENGINEERING – TIRUNELVELI</item>
+
+        <item>EINSTEIN COLLEGE OF ENGINEERING</item>
+
+        <item>PSN ENGINEERING COLLEGE</item>
+
+        <item>J P COLLEGE OF ENGINEERING</item>
+
+        <item>MAHAKAVI BHARATHIYAR COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>AALIM MUHAMMED SALEGH COLLEGE OF ENGINEERING</item>
+
+        <item>BHAJARANG ENGINEERING COLLEGE</item>
+
+        <item>JAYA ENGINEERING COLLEGE</item>
+
+        <item>JAYA INSTITUTE OF TECHNOLOGY</item>
+
+        <item>MAGNA COLLEGE OF ENGINEERING</item>
+
+        <item>PRATHYUSHA INSTITUTE OF TECHNOLOGY AND MANAGEMENT</item>
+
+        <item>R.M.D. ENGINEERING COLLEGE</item>
+
+        <item>R.M.K. ENGINEERING COLLEGE</item>
+
+        <item>S.A. ENGINEERING COLLEGE</item>
+
+        <item>SRIRAM ENGINEERING COLLEGE</item>
+
+        <item>SRI VENKATESWARA COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>VEL TECH MULTI TECH DR.RANGARAJAN DR.SAKUNTHALA ENGINEERING COLLEGE</item>
+
+        <item>VELAMMAL ENGINEERING COLLEGE</item>
+
+        <item>SRI VENKATESWARA INSTITUTE OF SCIENCE AND TECHNOLOGY</item>
+
+        <item>VEL TECH HIGH TECH DR.RANGARAJAN DR.SAKUNTHALA ENGINEERING COLLEGE</item>
+
+        <item>GOJAN SCHOOL OF BUSINESS AND TECHNOLOGY</item>
+
+        <item>SAMS COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>PMR ENGINEERING COLLEGE</item>
+
+        <item>JNN INSTITUTE OF ENGINEERING</item>
+
+        <item>ST.PETER\’S COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>R.M.K. COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>VEL TECH</item>
+
+        <item>AALIM MUHAMMED SALEGH ACADEMY OF ARCHITECTURE</item>
+
+        <item>SIVA INSTITUTE OF FRONTIER TECHNOLOGY – TECHNICAL CAMPUS</item>
+
+        <item>R.V.S. PADHMAVATHY COLLEGE OF ENGINEERING and TECHNOLOGY</item>
+
+        <item>KUMARAN INSTITUTE OF TECHNOLOGY</item>
+
+        <item>RVS PADMAVATHY SCHOOL OF ARCHITECTURE</item>
+
+        <item>PANIMALAR ENGINEERING COLLEGE</item>
+
+        <item>S.K.R. ENGINEERING COLLEGE</item>
+
+        <item>SREE SASTHA INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SRINIVASA INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>ALPHA COLLEGE OF ENGINEERING</item>
+
+        <item>INDIRA INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>PANIMALAR INSTITUTE OF TECHNOLOGY</item>
+
+        <item>VELAMMAL INSTITUTE OF TECHNOLOGY</item>
+
+        <item>GRT INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>T.J.S. ENGINEERING COLLEGE</item>
+
+        <item>SREE SASTHA COLLEGE OF ENGINEERING</item>
+
+        <item>JOHN BOSCO ENGINEERING COLLEGE</item>
+
+        <item>EASWARI ENGINEERING COLLEGE</item>
+
+        <item>SAKTHI ENGINEERING COLLEGE</item>
+
+        <item>RAJALAKSHMI INSTITUTE OF TECHNOLOGY</item>
+
+        <item>JAYA SURIYA ENGINEERING COLLEGE</item>
+
+        <item>UNIVERSITY COLLEGE OF ENGINEERING, ARNI</item>
+
+        <item>SRI RENUGAMBAL COLLEGE OF ARCHITECTURE</item>
+
+        <item>S.R.I COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SRI RAMANA MAHARISHI COLLEGE OF ENGINEERING</item>
+
+        <item>ARULMIGU MEENAKSHI AMMAN COLLEGE OF ENGINEERING</item>
+
+        <item>ARUNAI ENGINEERING COLLEGE</item>
+
+        <item>ARUNAI COLLEGE OF ENGINEERING</item>
+
+        <item>S.K.P. ENGINEERING COLLEGE</item>
+
+        <item>SRI BALAJI CHOCKALINGAM ENGINEERING COLLEGE</item>
+
+        <item>THIRUVALLUVAR COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>S.K.P. INSTITUTE OF TECHNOLOGY</item>
+
+        <item>ANNAMALAIAR COLLEGE OF ENGINEERING</item>
+
+        <item>KRS COLLEGE OF ENGINEERING</item>
+
+        <item>OXFORD COLLEGE OF ENGINEERING</item>
+
+        <item>ANJALAI AMMAL MAHALINGAM ENGINEERING COLLEGE</item>
+
+        <item>A.R.J COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>JAIRUPAA COLLEGE OF ENGINEERING</item>
+
+        <item>SCAD INSTITUTE OF TECHNOLOGY</item>
+
+        <item>JAY SHRIRAM GROUP OF INSTITUTIONS</item>
+
+        <item>ERODE BUILDER EDUCATIONAL TRUST’S GROUP OF INSTITUTIONS</item>
+
+        <item>PROFESSIONAL EDUCATIONAL TRUST’S GROUP OF INSTITUTIONS</item>
+
+        <item>SASURIE COLLEGE OF ENGINEERING</item>
+
+        <item>ANGEL COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SRI RAMANATHAN ENGINEERING COLLEGE</item>
+
+        <item>DR.NALLINI INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>UNIVERSITY COLLEGE OF ENGINEERING, TIRUCHIRAPPALLI</item>
+
+        <item>MAHALAKSHMI ENGINEERING COLLEGE</item>
+
+        <item>RVS KVK SCHOOL OF ARCHITECTURE</item>
+
+        <item>DHANALAKSHMI SRINIVASAN INSTITUTE OF TECHNOLOGY</item>
+
+        <item>SUREYA COLLEGE OF ENGINEERING</item>
+
+        <item>K.RAMAKRISHNAN COLLEGE OF TECHNOLOGY</item>
+
+        <item>OAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, GROUP OF INSTITUTIONS</item>
+
+        <item>M A M SCHOOL OF ARCHITECTURE</item>
+
+        <item>C.A.R.E SCHOOL OF ARCHITECTURE</item>
+
+        <item>M.A.M. SCHOOL OF ENGINEERING</item>
+
+        <item>TRP ENGINEERING COLLEGE</item>
+
+        <item>SHRI ANGALAMMAN COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>J.J.COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>JAYARAM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>KURINJI COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>M.A.M COLLEGE OF ENGINEERING</item>
+
+        <item>M.I.E.T ENGINEERING COLLEGE</item>
+
+        <item>OXFORD ENGINEERING COLLEGE</item>
+
+        <item>PAVENDAR BHARATHIDASAN COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SARANATHAN COLLEGE OF ENGINEERING</item>
+
+        <item>TRICHY ENGINEERING COLLEGE</item>
+
+        <item>KONGUNADU COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>CAUVERY COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>M.A.M COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>K. RAMAKRISHNAN COLLEGE OF ENGINEERING</item>
+
+        <item>INDRA GANESAN COLLEGE OF ENGINEERING</item>
+
+        <item>C.A.R.E. GROUP OF INSTITUTIONS</item>
+
+        <item>SHIVANI ENGINEERING COLLEGE</item>
+
+        <item>IMAYAM COLLEGE OF ENGINEERING</item>
+
+        <item>VETRI VINAYAHA COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SHIVANI INSTITUTE OF TECHNOLOGY</item>
+
+        <item>PAVENDAR BHARATHIDASAN INSTITUTE OF INFORMATION TECHNOLOGY</item>
+
+        <item>THE SELVAM WOMEN EXCELLENCE ENGINEERING TECHNOLOGY</item>
+
+        <item>DESIGNED ENVIRONMENT ACADEMY AND RESEARCH INSTITUTE</item>
+
+        <item>UNIVERSITY VOC COLLEGE OF ENGINEERING, THOOTHUKUDI</item>
+
+        <item>V V COLLEGE OF ENGINEERING</item>
+
+        <item>CHANDY COLLEGE OF ENGINEERING</item>
+
+        <item>ST.MOTHER THERESA ENGINEERING COLLEGE</item>
+
+        <item>HOLY CROSS ENGINEERING COLLEGE</item>
+
+        <item>UNNAMALAI INSTITUTE OF TECHNOLOGY</item>
+
+        <item>DR.SIVANTHI ADITANAR COLLEGE OF ENGINEERING</item>
+
+        <item>JAYARAJ ANNAPACKIAM CSI COLLEGE OF ENGINEERING</item>
+
+        <item>NATIONAL ENGINEERING COLLEGE (AUTONOMOUS)</item>
+
+        <item>DR.G.U.POPE COLLEGE OF ENGINEERING</item>
+
+        <item>INFANT JESUS COLLEGE OF ENGINEERING</item>
+
+        <item>INFANT JESUS COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>ANNAI MIRA COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SREE KRISHNA COLLEGE OF ENGINEERING</item>
+
+        <item>ADHIPARASAKTHI COLLEGE OF ENGINEERING</item>
+
+        <item>C.ABDUL HAKEEM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>G.G.R. COLLEGE OF ENGINEERING</item>
+
+        <item>GANADIPATHY TULSI’S JAIN ENGINEERING COLLEGE</item>
+
+        <item>PRIYADARSHINI ENGINEERING COLLEGE</item>
+
+        <item>RANIPPETTAI ENGINEERING COLLEGE</item>
+
+        <item>SRI NANDHANAM COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SARASWATHI VELU COLLEGE OF ENGINEERING</item>
+
+        <item>THANTHAI PERIYAR GOVT INSTITUTE OF TECHNOLOGY</item>
+
+        <item>BHARATHIDASAN ENGINEERING COLLEGE</item>
+
+        <item>KINGSTON ENGINEERING COLLEGE</item>
+
+        <item>SHRI SAPTHAGIRI INSTITUTE OF TECHNOLOGY</item>
+
+        <item>GLOBAL INSTITUTE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>PODHIGAI COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SRI KRISHNA COLLEGE OF ENGINEERING</item>
+
+        <item>UNIVERSITY COLLEGE OF ENGINEERING, VILLUPURAM</item>
+
+        <item>UNIVERSITY COLLEGE OF ENGINEERING, TINDIVANAM</item>
+
+        <item>SURYA SCHOOL OF ARCHITECTURE</item>
+
+        <item>VEDHANTHA INSTITUTE OF TECHNOLOGY</item>
+
+        <item>ANNAI TERESA COLLEGE OF ENGINEERING</item>
+
+        <item>DR. PAULS ENGINEERING COLLEGE</item>
+
+        <item>IFET COLLEGE OF ENGINEERING</item>
+
+        <item>MAILAM ENGINEERING COLLEGE</item>
+
+        <item>T.S.M. JAIN COLLEGE OF TECHNOLOGY</item>
+
+        <item>V.R.S. COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>E.S ENGINEERING COLLEGE</item>
+
+        <item>MAHA BARATHI ENGINEERING COLLEGE</item>
+
+        <item>SRI ARAVINDAR ENGINEERING COLLEGE</item>
+
+        <item>SURYA GROUP OF INSTITUTIONS</item>
+
+        <item>A.R. ENGINEERING COLLEGE</item>
+
+        <item>A.K.T. MEMORIAL COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>SRI RANGAPOOPATHI COLLEGE OF ENGINEERING</item>
+
+        <item>SARASWATHY COLLEGE OF ENGINEERING and TECHNOLOGY</item>
+
+        <item>IDHAYA ENGINEERING COLLEGE FOR WOMEN</item>
+
+        <item>RENGANAYAGI VARATHARAJ COLLEGE OF ENGINEERING</item>
+
+        <item>SETHU INSTITUTE OF TECHNOLOGY (AUTONOMOUS)</item>
+
+        <item>KAMARAJ COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>MEPCO SCHLENK ENGINEERING COLLEGE</item>
+
+        <item>P.S.R ENGINEERING COLLEGE (AUTONOMOUS)</item>
+
+        <item>SREE SOWDAMBIKA COLLEGE OF ENGINEERING</item>
+
+        <item>V.P.MUTHAIAH PILLAI MEENAKSHI AMMAL ENGINEERING COLLEGE FOR WOMEN</item>
+
+        <item>KALASALINGAM INSTITUTE OF TECHNOLOGY</item>
+
+        <item>P.S.R.RENGASAMY COLLEGE OF ENGINEERING FOR WOMEN</item>
+
+        <item>SRI VIDYA COLLEGE OF ENGINEERING and TECHNOLOGY</item>
+
+        <item>UNIVERSITY COLLEGE OF ENGINEERING, ARIYALUR</item>
+
+        <item>K.K.C COLLEGE OF ENGINEERING AND TECHNOLOGY</item>
+
+        <item>MEENAKSHI RAMASWAMY ENGINEERING COLLEGE</item>
+        <item>Amrita Vishwa Vidyapeetham</item>
+    <item>Avinashilingam Institute for Home Science and Higher Education for Women</item>
+<item>B.S. Abdul Rahman Institute of Science and Technology</item>
+<item>Bharath Institute of Higher Education and Research</item>
+<item>Chennai Mathematical Institute</item>
+<item>Chettinad Academy of Research and Education (CARE)</item>
+<item>Gandhigram Rural Institute</item>
+<item>Hindustan Institute of Technology and Science (HITS)</item>
+<item>Kalasalingam Academy of Research and Higher Education</item>
+<item>Karpagam Academy of Higher Education</item>
+<item>Karunya Institute of Technology and Sciences</item>
+<item>M.G.R. Educational and Research Institute</item>
+<item>Meenakshi Academy of Higher Education and Research</item>
+<item>Noorul Islam Center for Higher Education</item>
+<item>Periyar Maniammai Institute of Science and Technology (PMIST)</item>
+<item>Ponnaiyah Ramajayam Institute of Science and Technology (PRIST)</item>
+<item>Rajiv Gandhi National Institute of Youth Development</item>
+<item>Ramakrishna Mission Vivekananda University, (West Bengal) Coimbatore campus</item>
+<item>S.R.M Institute of Science and Technology</item>
+<item>Sathyabama Institute of Science and Technology</item>
+<item>Saveetha Institute of Medical and Technical Sciences</item>
+<item>Shanmugha Arts, Science, Technology and Research Academy (SASTRA)</item>
+<item>Sri Chandrasekharendra Saraswathi Vishwa Mahavidyalaya</item>
+<item>Sri Ramachandra Medical College and Research Institute</item>
+<item>St. Peter\'s Institute of Higher Education and Research</item>
+<item>Vel Tech Rangrajan Dr. Sagunthala RandD Institute of Science and Technology</item>
+<item>Vellore Institute of Technology</item>
+<item>Vel\'s Institute of Science, Technology and Advanced Studies (VISTAS)</item>
+<item>Vinayaka Mission\'s Research Foundation</item>
+
+
+
+    </string-array>
+
+    <string-array name="departments">
+
+
+            <item>AUT</item>
+            <item>BIO</item>
+            <item>CHE</item>
+            <item>CIV</item>
+            <item>CSE</item>
+            <item>ECE</item>
+            <item>EEE</item>
+            <item>IT</item>
+            <item>MAR</item>
+            <item>MEC</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="year">
+        <item>1st year</item>
+        <item>2nd year</item>
+        <item>3rd year</item>
+        <item>4th year</item>
+
+
+    </string-array>
+
+    <string-array name="stops">
+        <item>100 ft Road</item>
+        <item>100ft Road</item>
+        <item>12th Main Road</item>
+        <item>13th Main Road</item>
+        <item>Aavichi</item>
+        <item>Adyar</item>
+        <item>Adyar depot</item>
+        <item>Adyar signal</item>
+        <item>Agaram</item>
+        <item>Air Tel office</item>
+        <item>Ajantha</item>
+        <item>Alwarpet</item>
+        <item>Ambal Nagar</item>
+        <item>Ambattur</item>
+        <item>Ambattur Telephone exchange</item>
+        <item>Aminjikarai</item>
+        <item>Aminjikkarai</item>
+        <item>Anakaputhur</item>
+        <item>Anna Nagar - Rountana</item>
+        <item>Anna Nagar-Rountana</item>
+        <item>Anna Nagar West</item>
+        <item>Anna Nagar-West Depot</item>
+        <item>Anna University</item>
+        <item>Arumbakkam</item>
+        <item>Ashok Pillar</item>
+        <item>Attu Thotti</item>
+        <item>Avadi</item>
+        <item>Avichi</item>
+        <item>Ayanavaram</item>
+        <item>Ayanavaram ESI</item>
+        <item>Ayodhya Manadapam</item>
+        <item>Ayodhya Mandapam</item>
+        <item>Ayyapan koil</item>
+        <item>Ayyapanthangal</item>
+        <item>Ayyappan thangal</item>
+        <item>Bazullah Road</item>
+        <item>Beach station</item>
+        <item>Besant Nagar</item>
+        <item>Blue star</item>
+        <item>Blue Star</item>
+        <item>Camp road</item>
+        <item>Central</item>
+        <item>Chetpet</item>
+        <item>Chevvapet</item>
+        <item>Chinmaya Nagar</item>
+        <item>Chintamani</item>
+        <item>Chinthamani</item>
+        <item>Chrompet</item>
+        <item>CIT</item>
+        <item>CIT Nagar</item>
+        <item>Collector Nagar</item>
+        <item>Collector Office</item>
+        <item>Dasaprakash</item>
+        <item>Dinathanthi</item>
+        <item>DMS</item>
+        <item>Doveton</item>
+        <item>Duraisamy Subway</item>
+        <item>East Tambaram</item>
+        <item>Egmore</item>
+        <item>Eratteri</item>
+        <item>Ethiraj College</item>
+        <item>Golden Flats</item>
+        <item>Govt Hospital</item>
+        <item>Guduvanchery</item>
+        <item>Guindy</item>
+        <item>Habibullah Road</item>
+        <item>Highcourt</item>
+        <item>Hotel Park Sheraton</item>
+        <item>ICF</item>
+        <item>IIT</item>
+        <item>Indira Nagar</item>
+        <item>Iyyappan thangal</item>
+        <item>Jaya College</item>
+        <item>Jayanthi</item>
+        <item>K4 Station</item>
+        <item>Kaladipet</item>
+        <item>Kalliappa</item>
+        <item>Kancheepuram</item>
+        <item>Kancheepuram Main Bus Stand</item>
+        <item>Kancheepuram New Railway Station</item>
+        <item>Kanchipuram</item>
+        <item>Kasi Theatre</item>
+        <item>Kathipara</item>
+        <item>Kathipara Junction</item>
+        <item>Kattupakkam</item>
+        <item>Kellys</item>
+        <item>Kellys-Nagappa motors</item>
+        <item>Kilkattalai</item>
+        <item>Kilpauk</item>
+        <item>Kishkintha</item>
+        <item>KK Nagar</item>
+        <item>KMC</item>
+        <item>Kodambakkam Power House</item>
+        <item>Kodasmbakkam Power House</item>
+        <item>Kolathur</item>
+        <item>Korattur</item>
+        <item>Kotturpuram</item>
+        <item>Kovilambakkam</item>
+        <item>Koyambedu</item>
+        <item>Koyambedu Rountana</item>
+        <item>Koyambedu Rountana	</item>
+        <item>Koyembedu</item>
+        <item>Krishnanagar</item>
+        <item>Krishna Nagar</item>
+        <item>Kumanan chaavadi</item>
+        <item>Kumanan chavadi</item>
+        <item>Kundrathur</item>
+        <item>liberty</item>
+        <item>Liberty</item>
+        <item>Little mount</item>
+        <item>Little Mount</item>
+        <item>Lloyds Road</item>
+        <item>Lotus Colony</item>
+        <item>Loyola</item>
+        <item>Loyola college</item>
+        <item>Lucas Bridge</item>
+        <item>Lucas TVS</item>
+        <item>Luz signal</item>
+        <item>Madipakkam</item>
+        <item>Maduravoyal</item>
+        <item>Maduravoyil</item>
+        <item>Maduravoyil Bridge</item>
+        <item>Mahalingapuram</item>
+        <item>Maharani theatre</item>
+        <item>Manavalanagar</item>
+        <item>Mandaveli</item>
+        <item>Mandaveli BS</item>
+        <item>Mangadu</item>
+        <item>Medavakkam</item>
+        <item>Medavakkam Koot Road</item>
+        <item>Medavakkam Tank</item>
+        <item>Meenakshi Hospital</item>
+        <item>Meenambakkam</item>
+        <item>MEPZ</item>
+        <item>Metha Nagar</item>
+        <item>Mettu Street</item>
+        <item>Milk Canteen (BandC mill back gate)</item>
+        <item>Mint</item>
+        <item>MKB Nagar</item>
+        <item>MLM</item>
+        <item>MMC</item>
+        <item>Moolakadai</item>
+        <item>Moongil Mandapam (Onward) / Rangasamy Kulam (Return)</item>
+        <item>Mugalivakkam</item>
+        <item>Mugappair - 7H bus stop</item>
+        <item>Mugappair West</item>
+        <item>Music Academy</item>
+        <item>Mylapore</item>
+        <item>Mylapore Tank</item>
+        <item>Nadha muni Theatre</item>
+        <item>Nanganallur</item>
+        <item>Nazarathpet</item>
+        <item>Nazarthpet</item>
+        <item>Nerkundram</item>
+        <item>New Avadi Road</item>
+        <item>Nolambur Police Station</item>
+        <item>NSKNagar</item>
+        <item>NSK Nagar</item>
+        <item>Nungambakkam</item>
+        <item>Oil Mill</item>
+        <item>Oil mill stop</item>
+        <item>Opel Astra</item>
+        <item>Otteri</item>
+        <item>Pallavaram</item>
+        <item>Pammal</item>
+        <item>Panagal park</item>
+        <item>Pandicherry Guest House</item>
+        <item>Park Sheraton</item>
+        <item>Perambur</item>
+        <item>Perambur Bus Stand</item>
+        <item>Periyar Nagar</item>
+        <item>Perungalathur</item>
+        <item>Pondicherry Guest house</item>
+        <item>Pondicherry Guest House</item>
+        <item>Pondy bazaar</item>
+        <item>Poonamalee</item>
+        <item>Poonamalle</item>
+        <item>Poonamallee</item>
+        <item>Poonamallee Bye pass</item>
+        <item>Porur</item>
+        <item>PT Rajan road</item>
+        <item>PT Rajan Road </item>
+        <item>Putlur Koot Road</item>
+        <item>Ramapuram</item>
+        <item>Ramarathana Theatre</item>
+        <item>Retteri</item>
+        <item>Retteri / Korattur</item>
+        <item>Royapetah</item>
+        <item>Royapuram</item>
+        <item>SAF</item>
+        <item>Safire</item>
+        <item>Saidapet</item>
+        <item>Sakthi Nagar</item>
+        <item>Sankara Mutt</item>
+        <item>Santhavelur</item>
+        <item>Santhome</item>
+        <item>Saravana Bhavan Hotel</item>
+        <item>Senthil Nagar</item>
+        <item>SIET</item>
+        <item>Somanagalam</item>
+        <item>Somangalam</item>
+        <item>Sterlingroad</item>
+        <item>St.Thomas mount</item>
+        <item>SVCE</item>
+        <item>Swagath</item>
+        <item>Tambaram</item>
+        <item>Taramani</item>
+        <item>TaylorsRoad</item>
+        <item>Taylors Road</item>
+        <item>Theradi</item>
+        <item>Thirumangalam</item>
+        <item>Thirumangalam signal</item>
+        <item>Thirumangalam Signal</item>
+        <item>Thirumazhisai</item>
+        <item>Thirumullaivoyal</item>
+        <item>Thiruninravur Bridge</item>
+        <item>Thiruvallur</item>
+        <item>Thiruvallur Court-petrol bunk</item>
+        <item>Tirumangalam</item>
+        <item>Tirumangalam signal</item>
+        <item>Tiruvanmiyur</item>
+        <item>Tiruvotriyur</item>
+        <item>T. Nagar</item>
+        <item>Toll gate</item>
+        <item>Tondairpet</item>
+        <item>Trident</item>
+        <item>Triplicane</item>
+        <item>TVK Nagar</item>
+        <item>TVK Park</item>
+        <item>Urapakkam</item>
+        <item>Vadapalani</item>
+        <item>Vadapalini</item>
+        <item>Valasaravakakm</item>
+        <item>Valasaravakkam</item>
+        <item>Valasarawakkam</item>
+        <item>Valluvar Kottam</item>
+        <item>Vanagaram and Vellappanchavadi</item>
+        <item>Vandalur</item>
+        <item>Vannanthurai</item>
+        <item>Vanuvampet</item>
+        <item>Vanuvampettai</item>
+        <item>Varadharaja perumal koil</item>
+        <item>Velachery</item>
+        <item>Velappanchavadi</item>
+        <item>Veppampattu</item>
+        <item>Vijaya Nagar</item>
+        <item>Villivakkam</item>
+        <item>Virugambakkam</item>
+        <item>Virugambakkam Kesavarthini</item>
+        <item>Vivek and Co</item>
+        <item>Vyasabadi Jeeva</item>
+        <item>Walltax road</item>
+        <item>Waves</item>
+        <item>Waves (TNEB)</item>
+        <item>Wavin</item>
+        <item>W.Depot/Wavin</item>
+        <item>West Depot</item>
+        <item>Vellayanchetty School </item>
+        <item>TVK Park </item>
+        <item>Silverstar Hotel </item>
+        <item>TVK Park </item>
+        <item>Perambur Rly Stn </item>
+        <item>MKB Nagar </item>
+        <item>Anna Statue </item>
+        <item>Lucas TVS </item>
+        <item>Lucas TVS </item>
+        <item>Lotus Colony </item>
+        <item>W.Depot </item>
+        <item>Thirumangalam signal </item>
+        <item>Lucas TVS </item>
+        <item>Highcourt </item>
+        <item>Apollo Hospital </item>
+        <item>Noor Hotel </item>
+        <item>Moolakadai </item>
+        <item>Retteri </item>
+        <item>Thirumangalam signal </item>
+        <item>Gosha Hospital </item>
+        <item>Yellow Pages </item>
+        <item>Santhome </item>
+        <item>Yellow Pages </item>
+        <item>Don Bosco </item>
+        <item>Pillaiyar Koil </item>
+        <item>Tiruvanmiyur - Hotchips </item>
+        <item>SRP Tools </item>
+        <item>MEPZ </item>
+        <item>Madipakkam B.S </item>
+        <item>Music Academy </item>
+        <item>Yellow Pages </item>
+        <item>Meenambakkam </item>
+        <item>Mangadu Pattur koot Road </item>
+        <item>Saidapet </item>
+        <item>Medavakkam Koot Road </item>
+        <item>Kovilambakkam </item>
+        <item>Madipakkam </item>
+        <item>Maraimalai Nagar </item>
+        <item>Aavichi School </item>
+        <item>Next to Neel metal processing unit bus stop  </item>
+        <item>CIPET </item>
+        <item>Ashok Pillar </item>
+        <item>Nagesh Theatre </item>
+        <item>Krishnaveni Theatre </item>
+        <item>Nagesh Theatre </item>
+        <item>Nagesh Theatre </item>
+        <item>Vani Mahal </item>
+        <item>Ashok Pillar </item>
+        <item>TCS </item>
+        <item>Vani Mahal </item>
+        <item>Anna Statue </item>
+        <item>Nagesh Theatre </item>
+        <item>Sakthi Nagar </item>
+        <item>Housing Board </item>
+        <item>Housing board </item>
+        <item>Military Road </item>
+        <item>Pattabiram- Gandhi Nagar </item>
+
+    </string-array>
+
+<string name="instruction">1. The symposium is on September 3rd.\n\n
+2. There is no registration fee.\n\n
+
+3. Dress code: Strictly adhere to the dress code given below.\n
+Boys:  No T-Shirts or shorts.\n
+Girls: Salwar with dupatta \n\n
+4. Events commence at 9 am and will close by 2:30 pm.\n\n
+5. SVCE College transport can be used and you can check the bus number and routes from the “Transport” tab in the app.
+
+
+</string>
+</resources>
